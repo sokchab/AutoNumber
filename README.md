@@ -42,5 +42,6 @@ End Function
 ```vba
 TextBox.Value = AutoNumber("TableName", "PrimaryKey")
 
-ex: txtId.Value = AutoNumber("tbBook","BookId")
+'example
+txtId.Value = AutoNumber("tbBook","BookId")
 ```
